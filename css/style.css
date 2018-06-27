@@ -53,7 +53,7 @@ img:hover {
 }
   
 .column2 {
-    display: inline-block;
+    display: block;
     width: 33.333%;
     float: center;
 }  
