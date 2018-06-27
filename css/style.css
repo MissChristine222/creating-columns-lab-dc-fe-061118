@@ -48,14 +48,14 @@ img:hover {
 
 .columnA {
   display: block;
-  width: 32.333%;
+  width: 30.333%;
   float: left;
   margin: 0 1% 0 0%;
 }
 
 .columnB {
   display: block;
-  width: 66.666%;
+  width: 60.666%;
   float: left;
   margin: 0 0 0 1%;
 }
