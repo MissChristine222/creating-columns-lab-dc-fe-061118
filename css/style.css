@@ -66,6 +66,13 @@ columnC {
   float: left;
   margin: 0 1% 0 0%;
 }
+
+columnD {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 0 0 1% 0;
+}
   
 
 .column3 {
