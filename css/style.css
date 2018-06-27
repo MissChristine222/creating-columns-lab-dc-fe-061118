@@ -81,4 +81,10 @@ img:hover {
   height: 300;
 }
 
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+}
+
 /* create your tile classes! we recommend .small .med .large */
