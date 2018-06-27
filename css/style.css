@@ -48,13 +48,13 @@ img:hover {
 
 .column1 {
   display: block;
-  width: 33.333%;
+  width: 30.333%;
   float: left;
 }
   
 .column2 {
     display: block;
-    width: 66.666%;
+    width: 60.666%;
     float: left;
   
 }  
@@ -79,7 +79,7 @@ img:hover {
 
 .large {
   width: 300%;
-  height: 300;
+  height: 300%;
 }
 
 .clearfix:after {
