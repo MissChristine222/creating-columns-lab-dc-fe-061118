@@ -54,13 +54,13 @@ img:hover {
   
 .column2 {
     display: inline-block;
-    width: 66.666%;
-    float: right;
+    width: 33.333%;
+    float: center;
 }  
     
   .column3 {
       display: block;
-      width: 100%;
+      width: 33.333%;
   }
   
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
