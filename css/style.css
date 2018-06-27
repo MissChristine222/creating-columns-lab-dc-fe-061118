@@ -85,6 +85,8 @@ img:hover {
   display: block;
   clear: both;
   visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 img.small {
   max-width: 100%;
