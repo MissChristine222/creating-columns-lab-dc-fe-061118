@@ -97,9 +97,9 @@ img.med {
   max-height: 200%;
 }
 
-img #down {
+#down {
   position: relative;
-  top: 40px%;
+  top: 40px;
 }
 
 /* create your tile classes! we recommend .small .med .large */
