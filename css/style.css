@@ -85,6 +85,7 @@ img:hover {
   content: ".";
   display: block;
   clear: both;
+  
 }
 
 /* create your tile classes! we recommend .small .med .large */
