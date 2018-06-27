@@ -62,14 +62,14 @@ img:hover {
 
 columnC {
   display: block;
-  width: 50%;
+  width: 30%;
   float: left;
   margin: 0 1% 0 0%;
 }
 
 columnD {
   display: block;
-  width: 50%;
+  width: 30%;
   float: left;
   margin: 0 0 1% 0;
 }
