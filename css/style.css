@@ -72,6 +72,7 @@ img:hover {
 .med {
   width: 204%;
   height: 204%;
+  float: left;
 }
 
 .large {
