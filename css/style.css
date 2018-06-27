@@ -94,7 +94,7 @@ img.med {
 }
 
 .clear {
-  clear: both;
+  clear: left;
 }
 }
 
