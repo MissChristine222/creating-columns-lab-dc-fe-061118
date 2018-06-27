@@ -99,7 +99,7 @@ img.med {
 
 img #down {
   position: relative;
-  top: 200%;
+  top: 40px%;
 }
 
 /* create your tile classes! we recommend .small .med .large */
