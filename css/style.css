@@ -47,10 +47,10 @@ img:hover {
 }
 
 .column {
-  display: block;
+  display: inline-block;
   width: 33.333%;
   float: left;
-  margin: 1%;
+  
 }
   
 
