@@ -46,32 +46,12 @@ img:hover {
   background-color: #dd4444;
 }
 
-.columnA {
-  display: block;
-  width: 30.333%;
+.column {
+  display: inline-block;
+  width: 31.333%;
   float: left;
-  margin: 0 1% 0 0%;
-}
-
-.columnB {
-  display: block;
-  width: 60.666%;
-  float: left;
-  margin: 0 0 0 1%;
-}
-
-columnC {
-  display: block;
-  width: 30%;
-  float: left;
-  margin: 0 1% 0 0%;
-}
-
-columnD {
-  display: block;
-  width: 30%;
-  float: left;
-  margin: 0 0 1% 0;
+  margin: 1%;
+  
 }
   
 
